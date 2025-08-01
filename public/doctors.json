@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Aarti Mehra",
+    "specialization": "Cardiologist",
+    "image": "https://cdn.pixabay.com/photo/2013/03/29/10/07/operation-97471_1280.jpg",
+    "availability": "Available Today",
+    "bio": "Dr. Aarti has 12+ years of experience in heart surgeries.",
+    "schedule": ["10:00 AM", "2:00 PM", "5:00 PM"]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Ravi Sharma",
+    "specialization": "Dermatologist",
+    "image": "https://cdn.pixabay.com/photo/2020/11/03/15/31/doctor-5710152_1280.jpg",
+    "availability": "Fully Booked",
+    "bio": "Skin specialist with 15 years of experience.",
+    "schedule": []
+  },
+  {
+    "id": 3,
+    "name": "Dr. Neha Singh",
+    "specialization": "Pediatrician",
+    "image": "https://cdn.pixabay.com/photo/2017/03/14/03/20/woman-2141808_1280.jpg",
+    "availability": "On Leave",
+    "bio": "Specialist in child healthcare and development.",
+    "schedule": []
+  },
+  {
+    "id": 4,
+    "name": "Dr. Rajeev Kapoor",
+    "specialization": "Orthopedic Surgeon",
+    "image": "https://cdn.pixabay.com/photo/2017/07/23/10/44/dentist-2530990_1280.jpg",
+    "availability": "Available Today",
+    "bio": "Expert in joint replacement and sports injuries.",
+    "schedule": ["9:30 AM", "12:00 PM", "3:00 PM"]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Meena Joshi",
+    "specialization": "Gynecologist",
+    "image": "https://cdn.pixabay.com/photo/2017/03/13/21/41/scientist-2141259_1280.jpg",
+    "availability": "Fully Booked",
+    "bio": "20 years of experience in women's health and pregnancy care.",
+    "schedule": []
+  },
+  {
+    "id": 6,
+    "name": "Dr. Karan Patel",
+    "specialization": "ENT Specialist",
+    "image": "https://cdn.pixabay.com/photo/2018/04/05/06/01/measurement-3291962_1280.jpg",
+    "availability": "Available Today",
+    "bio": "Treats ear, nose, and throat conditions with precision.",
+    "schedule": ["11:00 AM", "1:00 PM", "4:00 PM"]
+  }
+]
